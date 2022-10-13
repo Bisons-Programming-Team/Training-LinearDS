@@ -3,6 +3,10 @@ From BPT training session 1, 2022-10-12
 
 ## Where to find everything
 
+### Presentation slides
+`presentation/`
+* The pptx version has the animations, the pdf version does not. If you don't have Microsoft Powerpoint, you should be able to open the pptx file with Google Slides to see the animations.
+
 ### Linked list vs. dynamic array (vector/ArrayList) comparison
 C++:
 * If you're using Visual Studio (2019 or newer) you can open `linkedList/CppLL/BPT_LL/BPT_LL.sln` with that app to easily run the code.
