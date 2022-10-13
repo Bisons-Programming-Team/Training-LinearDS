@@ -1,0 +1,2 @@
+D:\Git\personal\BPT-Examples\linearDS\brackets\BPT_Stack\x64\Release\BPT_Stack.exe
+D:\Git\school\Training-LinearDS\brackets\CPPBrackets\BPT_Stack\x64\Release\BPT_Stack.exe

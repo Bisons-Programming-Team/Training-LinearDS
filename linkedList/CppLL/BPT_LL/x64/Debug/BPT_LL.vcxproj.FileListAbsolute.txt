@@ -1,0 +1,2 @@
+D:\Git\personal\BPT-Examples\linearDS\linkedList\CppLL\BPT_LL\x64\Debug\BPT_LL.exe
+D:\Git\school\Training-LinearDS\linkedList\CppLL\BPT_LL\x64\Debug\BPT_LL.exe
