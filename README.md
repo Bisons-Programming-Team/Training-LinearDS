@@ -1,2 +1,2 @@
-# Training-LinearDS
-Sample code from BPT Training Session 2022-10-12
+# Linear Data Structures Sample Code
+From BPT training session 1, 2022-10-12
